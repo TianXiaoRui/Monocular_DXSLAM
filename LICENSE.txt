@@ -1,0 +1,9 @@
+DXSLAM is released under a GPLv3 license (see License-gpl.txt).
+
+For a closed-source version of DXSLAM for commercial purposes, please contact the authors.
+
+If you use DXSLAM in an academic work, please cite the most relevant publication associated by visiting:
+https://github.com/ivipsourcecode/dxslam
+
+
+
