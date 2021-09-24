@@ -1,15 +1,13 @@
 # DXSLAM
-添加单目相机支持,测试TUM数据集.
-# 添加了初始化部分,修改到 matcher.cc 164 searchForInitialization()
+add monocular support and monoInitializer. test in TUM desk_02
+add mono initializer and successfully run the mono_tum
 
-# add mono initializer and successfully run the mono_tum
-
-#编译报错解决方法:
+编译报错解决方法:
 在initializer.h 和 initializer.cpp 中添加 
 '''
 #include <math.h>
-'''
 using namespace std;
+'''
 
 The /hf-net and /Thirdparty can be downloaded from the origin DXSLAM
 
