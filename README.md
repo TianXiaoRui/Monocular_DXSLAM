@@ -9,10 +9,12 @@ add mono initializer and successfully run the mono_tum
 
 编译报错解决方法:
 在initializer.h 和 initializer.cpp 中添加 
-'''
+
 #include <math.h>
+
+
 using namespace std;
-'''
+
 
 The /hf-net and /Thirdparty can be downloaded from the origin DXSLAM
 
