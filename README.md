@@ -1,4 +1,5 @@
-# DXSLAM
+# DXSLAM_mono
+![mono](https://github.com/TianXiaoRui/Monocular_DXSLAM/blob/main/monodx.png)
 add monocular support and monoInitializer. test in TUM desk_02
 add mono initializer and successfully run the mono_tum
 
