@@ -1,6 +1,10 @@
 # DXSLAM_mono
 ![mono](https://github.com/TianXiaoRui/Monocular_DXSLAM/blob/main/monodx.png)
+
+
 add monocular support and monoInitializer. test in TUM desk_02
+
+
 add mono initializer and successfully run the mono_tum
 
 编译报错解决方法:
@@ -11,7 +15,6 @@ using namespace std;
 '''
 
 The /hf-net and /Thirdparty can be downloaded from the origin DXSLAM
-
 
 
 DXSLAM is a visual SLAM system based on deep CNN feature extraction. Please
